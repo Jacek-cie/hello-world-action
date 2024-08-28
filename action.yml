@@ -2,7 +2,7 @@ name: 'Hello world'
 description: 'This action will greet a person'
 inputs: 
   name:
-    description: 'Name of the person
+    description: 'Name of the person'
     required: false
     #default: 'Dummy'
 
