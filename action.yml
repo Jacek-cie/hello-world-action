@@ -26,4 +26,4 @@ runs:
       run: |
         name=${{ inputs.name }}
         length=${#name}
-        echo "name_length=$length" >> $GITHUB_OUTOUT
+        echo "name_length=$length" >> $GITHUB_OUTPUT
